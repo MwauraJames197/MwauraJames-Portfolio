@@ -3,7 +3,7 @@ const portfolioData = {
   title: "Electrical Engineering Student · SPU",
   profilePhoto: "student-portrait.png",
   bio: "Hi, I'm James — an electrical engineering student at Seattle Pacific University with a strong passion for circuit design, power systems, and signal processing. I enjoy hands-on engineering projects and applying theoretical knowledge to real-world challenges.",
-  email: "mwauraj@spu.edu",
+  email: "James.mwaura204@gmail.com",
   phone: "",
   linkedin: "https://linkedin.com",
   github: "https://github.com/MwauraJames197",
@@ -61,7 +61,7 @@ projects: [
   ],
 
   skills: [
-    "C++", "JavaScript", "Multisim", "MATLAB", "Circuit Design", "Signal Processing",
+    "C++", "JavaScript", "Multisim", "MATLAB", "Circuit Design", "Signal Processing","PCB Design",
     "Power Systems", "Breadboarding", "Oscilloscopes", "Filter Design", "Arduino", "Raspberry Pi Pico"
   ]
 };
