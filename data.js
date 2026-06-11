@@ -8,7 +8,7 @@
 */
 
 const portfolioData = {
-  name: "James Mwaura",
+  name: "",
   title: "Electrical Engineering Student · SPU",
   major: "Electrical Engineering",
   school: "Seattle Pacific University",
