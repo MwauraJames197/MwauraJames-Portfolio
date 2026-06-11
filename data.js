@@ -2,7 +2,7 @@ const portfolioData = {
   name: "James",
   title: "Electrical Engineering Student · SPU",
   profilePhoto: "student-portrait.png",
-  bio: "Hi, I'm James — an electrical engineering student at Seattle Pacific University with a strong passion for circuit design, power systems, and signal processing. I enjoy hands-on engineering projects and applying theoretical knowledge to real-world challenges.",
+  bio: "Hi, I'm James Mwaura, an electrical engineering student at Seattle Pacific University with a strong passion for circuit design, power systems, and signal processing. I enjoy hands-on engineering projects and applying theoretical knowledge to real-world challenges.",
   email: "James.mwaura204@gmail.com",
   phone: "",
   linkedin: "https://linkedin.com",
